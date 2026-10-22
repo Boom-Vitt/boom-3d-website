@@ -1,3 +1,15 @@
+<!-- BBN:HEADER:START -->
+<div align="center">
+
+<img src=".github/brand/banner.svg" width="100%" alt="Boom 3D Website Skill — Claude Skill for Dribbble-grade 3D landing pages" />
+
+<a href="https://github.com/Boom-Vitt/boom-3d-website/stargazers"><img src="https://img.shields.io/github/stars/Boom-Vitt/boom-3d-website?style=flat-square&color=14b8a6&labelColor=0b1220" alt="stars" /></a>
+<a href="https://github.com/Boom-Vitt/boom-3d-website/commits/main"><img src="https://img.shields.io/github/last-commit/Boom-Vitt/boom-3d-website?style=flat-square&color=14b8a6&labelColor=0b1220" alt="last commit" /></a>
+<a href="https://github.com/Boom-Vitt"><img src="https://img.shields.io/badge/by-BoomBigNose-14b8a6?style=flat-square&labelColor=0b1220" alt="by BoomBigNose" /></a>
+
+</div>
+<!-- BBN:HEADER:END -->
+
 # boom-3d-website — Claude Skill (ภาษาไทย)
 
 Skill สำหรับ Claude ที่ช่วยสร้างเว็บไซต์ landing page ระดับ Dribbble พร้อม 3D animation
@@ -27,3 +39,15 @@ Skill สำหรับ Claude ที่ช่วยสร้างเว็บ
 
 ---
 สร้างโดย BoomBigNose 🎈
+
+<!-- BBN:FOOTER:START -->
+---
+
+<div align="center">
+
+**สร้างโดย [BoomBigNose](https://github.com/Boom-Vitt)** · [Kruoop.com](https://kruoop.com) แหล่งเรียน AI + คอมมูนิตี้ · [Seeneo.ai](https://seeneo.ai) · [YouTube 220K](https://www.youtube.com/@BoomBigNose)
+
+<sub>ถ้าโปรเจกต์นี้มีประโยชน์ กด ⭐ ให้กำลังใจกันได้เลย</sub>
+
+</div>
+<!-- BBN:FOOTER:END -->
